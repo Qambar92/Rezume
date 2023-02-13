@@ -441,6 +441,7 @@ section {
   font-style: normal;
 }
 
+
 .skills .progress-bar-wrap {
   background: #dce8f8;
   height: 10px;
@@ -452,6 +453,7 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
+
 
 /*--------------------------------------------------------------
 # Resume
